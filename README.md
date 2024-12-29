@@ -1,0 +1,1 @@
+Yummy is a sleek, user-friendly web application for exploring a diverse collection of recipes. With dynamic navigation, category filtering, and area-based and ingredient-based recipe exploration, Yummy makes it easy to find the perfect meal for any occasion.
